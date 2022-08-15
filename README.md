@@ -1,5 +1,5 @@
 # LiteMessage
-An open-source message client
+An open-source message system
 
 ## How it works?
 This software was made in Python with Tkinter ans Socket. You can see every message from when your connection until you disconnect from the server. Neither messages are stored.
