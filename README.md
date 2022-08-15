@@ -2,7 +2,7 @@
 An open-source message system
 
 ## How it works?
-This software was made in Python with Tkinter ans Socket. You can see every message from when your connection until you disconnect from the server. Neither messages are stored.
+This software was made in Python with Tkinter and Socket. You can see every message from your connection until you disconnect from the server. Neither messages are stored.
 
 ## How I can test it?
 You can test it with a local server or with typing `default` in the server input
